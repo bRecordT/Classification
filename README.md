@@ -14,7 +14,7 @@ Comprehensive application of ML algorithms in classification problem under `care
 * Neural networks
 * Regularization
     * LASSO (*L1*), Ridge(*L2*), Elastic net
-* Support vector machines
+* Support vector machines  
 
 ## Data Source
 Red wine quality dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
