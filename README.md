@@ -1,5 +1,5 @@
 # Classification
-Comprehensive application of ML algorithms in classification problem under `caret` (*R*) and `scikit-learn` framework (*Python*)
+Comprehensive application of ML algorithms in classification problem under `caret` (*R*) and `scikit-learn` (*Python*) frameworks 
 * Boosting
     * Adaboost, GBM, XGboost
 * Bagging
